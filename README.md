@@ -32,9 +32,6 @@ Powered by **GPT-4**, it delivers concise and insightful summaries in multiple l
     
 3. **Install the required dependencies**
 
-    ```bash
-    pip install -r requirements.txt
-
 4. **Update your API keys**
 Replace the placeholder variables **NEWSAPI_KEY**, **OPENAI_API_KEY** with your actual API keys inside the project.
 
