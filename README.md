@@ -21,7 +21,7 @@ Powered by **GPT-4**, it delivers concise and insightful summaries in multiple l
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/ai-news-hub.git
+   git clone https://github.com/niharchauhan/ai-news-hub.git
    cd ai-news-hub
 
 2. **Create and activate a virtual environment**
